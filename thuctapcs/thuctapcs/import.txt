@@ -1,0 +1,10 @@
+Nguyen Van Anh, Tong giam doc, 07/10/1980, 2.5, Khanh Hoa, 12345678
+Nguyen Van Binh, Thu ky vien, 02/03/1975, 1.0, Binh Dinh, 87654321
+Doan Van Thanh, Truong phong, 10/07/1980, 2.0, Quang Ngai, 12344321
+Nguyen Van Duc, Truong phong, 20/10/1978, 1.5, Ha Giang, 1234678
+Nguyen Van Sinh, Nhan vien, 30/01/1985, 3.0, Cao Bang, 8765432
+Le Tran Van Ngoc, Thu ky vien, 07/12/1990, 2.5, Phu Quoc, 8765321
+Nguyen Van Giao, Nhan vien, 15/10/1992, 3.0, Vung Tau, 56785678
+Nguyen Van Sieu, Thu ky vien, 01/12/1990, 4.0, Binh Dinh, 7654321
+Nguyen Van Minh, Truong phong, 25/05/1985, 1.5, Khanh Hoa, 01234567
+Pham Van Tuan, Tong giam doc, 04/11/1994, 4.5, Quang Nam, 76543210

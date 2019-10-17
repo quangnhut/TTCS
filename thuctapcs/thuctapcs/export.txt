@@ -1,0 +1,13 @@
+=======================================================================================================================================================================
+Ho va ten		||	Chuc vu		||	Ngay sinh		||		He so luong	||	Nguyen quan		||	CMND
+=======================================================================================================================================================================
+Nguyen Van Anh		Tong giam doc		7/10/1980				2.7			Khanh Hoa			12345678
+Nguyen Van Binh		Thu ky vien		2/3/1975				1			Lam Dong			87654321
+Doan Van Thanh		Truong phong		10/7/1980				2			Quang Ngai			12345678
+Nguyen Van Duc		Pho giam doc		20/10/1978				1.5			Ha Giang			12345678
+Nguyen Van Sinh		Chu tich		30/1/1985				3			Cao Bang			87654321
+Le Tran Van Ngoc		Pho phong		7/12/1990				2.5			Phu Quoc			87654321
+Nguyen Van Giao		Nhan vien		15/10/1992				3			Vung Tau			12345678
+Nguyen Van Sieu		Thu ky vien		1/12/1990				2.6			Binh Dinh			87654321
+Nguyen Van Minh		Truong phong		25/5/1985				1.4			Khanh Hoa			12345678
+Pham Van Tuan		Pho phong		4/11/1994				1.8			Quang Nam			87654321

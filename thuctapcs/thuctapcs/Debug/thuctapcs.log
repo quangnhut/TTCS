@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\cntt\ttcs\thuctapcs\thuctapcs\main.cpp(245): warning C4715: 'Convert_chucvu': not all control paths return a value
+  thuctapcs.vcxproj -> E:\CNTT\TTCS\thuctapcs\Debug\thuctapcs.exe
