@@ -16,6 +16,10 @@ void DocNgaySinh(ifstream &filein, DATE &date)
 	filein.seekg(1, 1);
 	filein >> date.nam;
 }
+
+
+
+
 //new change
 struct nhanvien
 {
