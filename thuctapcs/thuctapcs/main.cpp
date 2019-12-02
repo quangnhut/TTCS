@@ -21,6 +21,8 @@ void DocNgaySinh(ifstream &filein, DATE &date)
 
 
 //new change
+
+
 struct nhanvien
 {
 	string hoten, chucvu, nguyenquan;
